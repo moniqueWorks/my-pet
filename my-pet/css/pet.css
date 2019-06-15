@@ -1,0 +1,13 @@
+h1{
+  color: green;
+  text-align: left;
+}
+body{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px
+}
+h3{
+  font-style: oblique;
+  text-overflow: ellipsis;
+  text-decoration: underline;
+}
